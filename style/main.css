@@ -43,9 +43,9 @@ header nav a:hover{
 /*serie-principal*/
 .serie-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.20) 100%), url('/img/capa-lost.jpg');
+    background: linear-gradient(rgba(133, 131, 131, 0.2),rgba(163, 152, 152, 0.2) 100%), url('../img/capa-lost.jpg');
 
-    height: 400px;
+    height: 850px;
     background-size:cover;
 
     display: flex;
@@ -55,8 +55,8 @@ header nav a:hover{
 }
 
 .serie-principal .descricao{
-    margin-top: 15px;
-    margin-bottom: 40px;
+    margin-top: 10px;
+    margin-bottom: 35px;
 
 }
 
@@ -67,7 +67,7 @@ header nav a:hover{
 }
 
 .botao{
-    background-color: rgba(0,0,0,.50);
+    background-color: rgb(0, 0, 0);
     border: none;
     color: white;
 
