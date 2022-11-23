@@ -7,4 +7,4 @@ Projeto faz parte dos desafios do Bootcamp Carrefour 2022, na Digital Innovation
 
 - HTML 
 - CSS
-- JQUERY
+- JQuery
